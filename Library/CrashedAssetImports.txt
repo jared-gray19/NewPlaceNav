@@ -1,1 +1,1 @@
-Assets/_MK/MKGlowFree/Demo/Textures/ET2.png
+Assets/_MK/MKGlowFree/Shader/Render/MKGlowSelectiveRender.shader
