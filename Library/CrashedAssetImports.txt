@@ -1,1 +1,1 @@
-Assets/_MK/MKGlowFree/Demo/Textures/MKDemoTex2Glow3.png
+Assets/_MK/MKGlowFree/Shader/Variants_SelectiveMode/Cutout/MK_Cutout-Glossy.shader
